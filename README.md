@@ -141,6 +141,19 @@ skim the task line and start building. Hunters read five numbers first:
    rewards a strong dossier and screenshots; a live race rewards not blowing up
    on the day.
 
+And scan for red flags while you read:
+
+- **A prerequisite you do not have.** Some bounties need a linked account
+  somewhere else — a GitHub account that owns the entry repository, for
+  instance. If the link is missing, no amount of building fixes it; the entry
+  is refused at the door. Satisfy prerequisites first.
+- **A session window.** If transcripts must begin after the bounty opens, the
+  brilliant session you started yesterday is worthless for this bounty. Fresh
+  session, every time.
+- **A recording instead of an upload.** A few bounties record the build live
+  rather than taking a transcript bundle. Their rules say so; finding out at
+  submission time means starting over.
+
 ## Fees: the five-minute check that saves a wasted day
 
 Most bounties are free. Some charge a small entry fee per account, paid once,
@@ -168,7 +181,12 @@ for the whole competition. Two traps hide here:
 
 Practical consequence: build your entries *before* you start submitting, so the
 ones that go in are the ones you chose — not whichever was finished when the
-cap ran out.
+cap ran out. And make checking your quota a habit, not a hope: the kit's status
+command and the bounty's quota endpoint tell you what is left of today's cap
+and whether a submission right now would be taken. Check *before* you promise
+yourself a second or third entry — a reputation-lowered total can already be
+sitting at the number you have used, with the day cap still showing room that
+does not exist.
 
 ## Force_Last: why order is a weapon
 
